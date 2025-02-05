@@ -100,7 +100,7 @@ Use this section to outline areas that you want to continue focusing on in futur
 - Website - [Alexander Tejedor](https://github.com/AlexanderTejedor)
 - Frontend Mentor - [@AlexanderTejedor](https://www.frontendmentor.io/profile/AlexanderTejedor)
 - Twitter - [@Alexand59894016](https://x.com/Alexand59894016)
-- Instagram - [___.alexDev.___](https://www.instagram.com/___.alexdev.___/)
+- Instagram - [_.alexDev._](https://www.instagram.com/_.alexdev._/?hl=es)
 
 **Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
 
