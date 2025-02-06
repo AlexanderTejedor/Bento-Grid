@@ -23,7 +23,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](../screencapture-alexandertejedor-github-io-Bento-Grid-2025-02-06-18_42_54.png)
+![](./assets/screencapture.png)
 
 ### Links
 
