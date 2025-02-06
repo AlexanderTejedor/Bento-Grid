@@ -36,6 +36,7 @@ img{
 }
 .card{
     margin-bottom: 2rem;
+    border-radius: .6rem;
 }
 .main-container{
     display: grid;
@@ -51,12 +52,10 @@ img{
     align-items: center;
     background-color: var(--purple-color);
     color: var(--white-color);
-    border-radius: .6rem;
 }
 .card__image img{
     width: 200px;
     object-fit: cover;
-    border-radius: 0.5rem;
 }
 .card__title,
 .card__subtitle,
@@ -116,7 +115,6 @@ img{
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    border-radius: .6rem;
 }
 .card__image-schedule img{
     width: 300px;
@@ -127,5 +125,24 @@ img{
     font-size: 1.2rem;
     margin-bottom: 1rem;
 }
-
 /*========== Quinta tarjeta ==========*/
+.card__followers{
+    padding: 1.5rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: var(--purple-color);
+}
+.card__image-followers img{
+    width: 230px;
+    margin-bottom: 1.5rem;
+}
+.card__followers .card__subtitle{
+    font-size: 2rem;
+    text-align: center;
+    color: var(--white-color);
+    line-height: .9;
+    margin-bottom: .5rem;
+}
+/*========== Sexta tarjeta ==========*/
