@@ -77,6 +77,7 @@ img{
     font-size: 1.1rem;
     text-align: center;
     margin-bottom: 1rem;
+    color: var(--light-yellow-color);
 }
 
 /*========== Segunda Tarjeta ==========*/
@@ -89,8 +90,22 @@ img{
 .card__image-social img{
     width: 100%;
     object-fit: cover;
-    margin-bottom: .5rem;
+    margin-bottom: 1rem;
     filter: drop-shadow(-6px 10px 5px rgba(0, 0, 0, 0.06));
 }
-
 /*========== Tercera Tarjeta ==========*/
+.card__calendar{
+    position: relative;
+    height: 221px;
+    padding: 1rem 1rem 0;
+    background-color: var(--yellow-color);
+    border-radius: .5rem;
+    line-height:1.030;
+    overflow: hidden;
+}
+.card__image-calendar img{
+    position: absolute;
+    width: 210px;
+    margin-top: 1rem;
+}
+/*========== Cuarta Tarjeta ==========*/
