@@ -164,3 +164,20 @@ img{
     width: 170px;
 }
 /*========== Septima trajeta ==========*/
+.card__create{
+    padding:  1.8rem 1.5rem 0;
+    background-color: var(--light-yellow-color);
+}
+.card__create .card__subtitle{
+    line-height: 1;
+    font-size: 1.85rem;
+    margin-bottom: .5rem;
+}
+.card__create .card__subtitle i{
+    color: var(--purple-color);
+}
+.card__image-create img{
+    margin: 1rem 0 1.8rem 0;
+    width: 185px;
+}
+/*========== Octava tarjeta ==========*/
