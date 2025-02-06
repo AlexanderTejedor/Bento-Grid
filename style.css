@@ -169,7 +169,7 @@ img{
     background-color: var(--light-yellow-color);
 }
 .card__create .card__subtitle{
-    line-height: 1;
+    line-height: 1.030;
     font-size: 1.85rem;
     margin-bottom: .5rem;
 }
@@ -181,3 +181,12 @@ img{
     width: 185px;
 }
 /*========== Octava tarjeta ==========*/
+.card__writeAI{
+    font-size: 1.125rem;
+    padding: 1.5rem;
+    background-color: var(--yellow-color);
+    line-height:1.030;
+}
+.card__image-writeAI{
+    margin: 1.6rem 0 0;
+}
