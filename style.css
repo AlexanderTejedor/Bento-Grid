@@ -280,6 +280,9 @@ img{
         grid-column: 7/ 10;
         grid-row: 4 / 6;
     }
+    .card__image-calendar img{
+        width: 195px;
+    }
     .card__subtitle{
         line-height: 1;
     }
